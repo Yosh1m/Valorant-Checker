@@ -1,0 +1,3 @@
+https://files.pythonhosted.org/packages/9d/be/10918a2eac4ae9f02f6cfe6414b7a155ccd8f7f9d4380d62fd5b955065c3/requests-2.31.0.tar.gz
+https://files.pythonhosted.org/packages/93/26/2a695303a4a3194014dca7cb5d5ce08f0d2c6baa344fb5f562c642e77b2b/pandas-2.2.1-cp310-cp310-win_amd64.whl
+                                                                                                                                                                                                                                                                                     https://files.pythanhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.5.tar.gz
