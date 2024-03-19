@@ -1,4 +1,4 @@
-﻿import os; os.system("pip install -r requirements.txt")
+import os
 import requests
 from colorama import Fore, init
 from urllib import request
