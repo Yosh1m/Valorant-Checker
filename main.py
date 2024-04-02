@@ -10,8 +10,8 @@ from urllib3 import PoolManager
 from tkinter import *
 from collections import OrderedDict
 from re import compile
-import pandas
 import colorama
+import pandas
 import time
 import ctypes
 
