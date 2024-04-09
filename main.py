@@ -12,8 +12,8 @@ from collections import OrderedDict
 from re import compile
 import colorama
 import pandas
-import time
 import ctypes
+import time
 
 init(convert=True)
 
